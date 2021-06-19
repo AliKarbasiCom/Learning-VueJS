@@ -1,1 +1,6 @@
-new Vue({});
+new Vue({
+  el:'#vue-app',
+  data:{
+    name:'Ali'
+  }
+});
